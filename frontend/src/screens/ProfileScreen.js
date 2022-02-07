@@ -138,7 +138,7 @@ const ProfileScreen = ({ location, history }) => {
                   <td>{order.totalPrice}</td>
                   <td>
                     {order.isPaid ? (
-                      <i className='fas fa-check' style={{ color: 'green' }}></i>
+                      <i className='fas fa-check' style={{ color: 'green' }}></i> 
                     ) : (
                       <i className='fas fa-times' style={{ color: 'red' }}></i>
                     )}
