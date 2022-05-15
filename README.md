@@ -1,7 +1,7 @@
 # ProShop eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
-LIVE url :https://btechprojectjnu.herokuapp.com/
+LIVE url :https://food-for-free-to-all.herokuapp.com/
 
 ## Features
 
