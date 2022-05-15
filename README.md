@@ -99,5 +99,4 @@ jane@example.com (Customer)
 ```
 
 ## License
-
 The MIT License
